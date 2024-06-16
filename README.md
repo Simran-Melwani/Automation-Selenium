@@ -1,0 +1,1 @@
+This framework is designed for automated testing of the Adactin Hotel website using Behavior Driven Development (BDD) with SpecFlow, implemented using the Page Object Model (POM) pattern with data driven. Allure reporting is integrated to generate comprehensive test reports. The framework includes 11 test cases, covering both valid and invalid scenarios.
